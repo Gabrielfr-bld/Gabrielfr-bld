@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-  - 🔭 &nbsp; Atualmente iniciando os estudos em Docker.
+  - 🔭 &nbsp; Atualmente iniciando os estudos em MongoDB.
   - 🤔 &nbsp; Buscando sempre aprender novas tecnologias.
   - 🎓 &nbsp; Estudante de Desenvolvimento de Software Web.
-  - 💼 &nbsp; Desenvolvedor Front-End.
-  - 🌱 &nbsp; Entusiasta de Business Intelligence.
+  - 💼 &nbsp; Desenvolvedor Back-End e Front-End.
+  - 🌱 &nbsp; Entusiasta com API's.
   - ☕  &nbsp; Gosto de ler livros, assistir séries e animes nas horas vagas.  
 
 
 <h3>🛠 Tech Skills</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Redux | Context API 
+- 🌐 &nbsp;  NodeJs | Sequelize | Express | Typescript | MySQL | Docker | HTML | CSS | JavaScript | Bootstrap | React | Redux | Context API
 - 🔧 &nbsp; Visual Studio Code | Git | Eclipse
 
 <br>
