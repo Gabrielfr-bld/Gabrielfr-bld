@@ -1,7 +1,7 @@
 <h2> Olá! Sou Gabriel Franklin. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="progamador" src="https://image.freepik.com/vetores-gratis/local-de-trabalho-do-programador-escrevendo-codigo-em-um-laptop_80328-238.jpg" width="450"/>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3> 🧑🏿‍💻 Sobre mim </h3>
 
   - 🔭 &nbsp; Atualmente iniciando os estudos em MongoDB.
   - 🤔 &nbsp; Buscando sempre aprender novas tecnologias.
@@ -13,7 +13,8 @@
 
 <h3>🛠 Tech Skills</h3>
 
-- 🌐 &nbsp;  NodeJs | Sequelize | Express | Typescript | MySQL | Docker | HTML | CSS | JavaScript | Bootstrap | React | Redux | Context API
+- 🌐 &nbsp;  NodeJs | Sequelize | Express | Typescript | MySQL | Docker  
+- 🔵 &nbsp;  HTML | CSS | JavaScript | Bootstrap | React | Redux | Context API
 - 🔧 &nbsp; Visual Studio Code | Git | Eclipse
 
 <br>
