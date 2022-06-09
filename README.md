@@ -3,7 +3,7 @@
 
 <h3> 🧑🏿‍💻 Sobre mim </h3>
 
-  - 🔭 &nbsp; Atualmente finaizando os estudos em MongoDB.
+  - 🔭 &nbsp; Atualmente iniciando os estudos em Python.
   - 🤔 &nbsp; Buscando sempre aprender novas tecnologias.
   - 🎓 &nbsp; Estudante de Desenvolvimento de Software Web.
   - 💼 &nbsp; Desenvolvedor Back-End e Front-End.
@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Skills</h3>
 
-- 🌐 &nbsp;  NodeJs | Sequelize | Express | Typescript | MySQL | Docker  
+- 🌐 &nbsp;  NodeJs | Sequelize | Express | Typescript | MySQL | Docker | MongoDB  
 - 🔵 &nbsp;  HTML | CSS | JavaScript |  React | Redux | Context API
 - 🔧 &nbsp; Visual Studio Code | Git | Eclipse
 
